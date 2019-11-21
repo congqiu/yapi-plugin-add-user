@@ -1,0 +1,17 @@
+{
+  "name": "yapi-plugin-add-user",
+  "version": "0.0.1",
+  "description": "提供管理员手动添加用户的方式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:congqiu/yapi-plugin-add-user.git"
+  },
+  "keywords": ["YAPI", "add", "user", "plugin"],
+  "author": "congqiu",
+  "license": "ISC"
+}
